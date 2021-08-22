@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MakaronToja2
+- 👀 I’m interested in Programming and Chinese culture
+- 🌱 I’m currently learning Python3 and Django
+- 💞️ I’m looking to collaborate on Developing my skills on programming field especially (Python3)
+- 📫 How to reach me wloch.jakub2@gmail.com
