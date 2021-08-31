@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @MakaronToja2
-- 👀 I’m interested in Programming and Chinese culture
-- 🌱 I’m currently learning Python3 and Django
-- 💞️ I’m looking to collaborate on Developing my skills on programming field especially (Python3)
-- 📫 How to reach me wloch.jakub2@gmail.com
+Hi my name is Jakub Wloch. 
+I tried myself in many fields and programming is something I'm really happy about.
+Love problem solving and looking deeply into code. 
+Would love to know more about frontend but right now focus my actions on backend with Python.
+
+Peace
+Jakub
