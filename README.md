@@ -18,7 +18,7 @@ ___
 
 <details>
   <summary>:computer:Tech Stack</summary>
-  Languages:  
+  Languages:   
   <img src="https://github.com/MakaronToja2/MakaronToja2/blob/main/photos/imgonline-com-ua-resize-f0qgdzsyg45P.jpg" alt="Alt text" title="Optional title">
   
 
