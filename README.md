@@ -21,12 +21,19 @@ ___
   <p>Languages:</p>   
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/imgonline-com-ua-resize-iUomPJLhvWpwsZ.jpg" alt="Alt text">
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/imgonline-com-ua-resize-YOsDjUZEUeXCM.jpg" alt="Alt text">
-  <p>Frameworks/Libraries</p>
+  <p>Frameworks/Libraries:</p>
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/imgonline-com-ua-resize-o73IpOFMhNk.jpg" alt="Django">
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/imgonline-com-ua-resize-f0qgdzsyg45P.jpg" alt="Django-Rest">
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/numpy.jpg" alt="Alt text">
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/pandas.jpg" alt="Alt text">
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/seaborn.jpg" alt="Alt text">
+  <p>Tools:</p>
+  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/Git.jpg" alt="Alt text">
+  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/Github.jpg" alt="Alt text">
+  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/docker.jpg" alt="Alt text">
+  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/pycharm.jpg" alt="Alt text">
+  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/VisualStudio.jpg" alt="Alt text">
+  
                                                                                                               
                                                                                                               
 
