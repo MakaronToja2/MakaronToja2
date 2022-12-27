@@ -19,6 +19,6 @@ ___
 <details>
   <summary>:computer:Tech Stack</summary>
   <p>Languages:</p>   
-  <img src="https://github.com/MakaronToja2/MakaronToja2/blob/main/photos/imgonline-com-ua-resize-f0qgdzsyg45P.jpg" alt="Alt text" title="Optional title">
-  
+  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/imgonline-com-ua-resize-iUomPJLhvWpwsZ.jpg" alt="Alt text" title="Optional title">
+  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/imgonline-com-ua-resize-YOsDjUZEUeXCM.jpg" alt="Alt text" title="Optional title1">
 
