@@ -9,6 +9,6 @@ ___
 - 22 years old,
 - Living in Opole, Poland but willing to relocate,
 - Coding in Python, Django,
-- Currently learning Django-Rest Framework,
+- Currently learning Django-Rest Framework,  
 🍁Main Stack
-
+![Alt]https://github.com/MakaronToja2/Images_Readme/blob/main/python-logo-master-v3-TM.png
