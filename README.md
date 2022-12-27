@@ -19,5 +19,4 @@ ___
 <details>
   <summary>:computer:Tech Stack</summary>
   Languages  
-  <p>![imgonline-com-ua-resize-iUomPJLhvWpwsZ](https://user-images.githubusercontent.com/89346176/209641380-4b6432c6-ded9-4740-b3b7-43531f163b6b.jpg)</p>
-</details>
+  ![Alt Text]([Path_to_image](https://github.com/MakaronToja2/MakaronToja2/blob/main/photos/imgonline-com-ua-resize-f0qgdzsyg45P.jpg))
