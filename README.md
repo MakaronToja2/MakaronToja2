@@ -1,7 +1,6 @@
-# Hi!
-I tried myself in many fields and programming is something I'm really happy about.\
-Love problem solving and looking deeply into code.\
-Right now focus my actions on backend with Python.\
-\
-Peace\
-Jakub
+# Hi! :wave:
+
+I'm programming since June 2021. I would like to become backend developer (maybe in the future full-stack). Currently working with Python, Django and Django-Rest Framework
+
+English at level B2/C1
+German A1/A2, currently learning
