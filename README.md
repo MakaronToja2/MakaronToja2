@@ -31,9 +31,13 @@ ___
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/Git.jpg" alt="Alt text">
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/Github.jpg" alt="Alt text">
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/docker.jpg" alt="Alt text">
-  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/pycharm.jpg" alt="Alt text">
+  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/Pycharm.jpg" alt="Alt text">
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/VisualStudio.jpg" alt="Alt text">
-  
+</details>
+<details>
+  <summary>::mailbox_with_mail:Contact Me</summary>
+  <p>-E-mail: wloch.jakub2@gmail.com
+    -[Linkedin](https://www.linkedin.com/in/jakubwlochjw/)
                                                                                                               
                                                                                                               
 
