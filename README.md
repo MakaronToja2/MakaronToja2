@@ -19,7 +19,8 @@ ___
 <details>
   <summary>:computer:Tech Stack</summary>
   Languages
-  ![imgonline-com-ua-resize-iUomPJLhvWpwsZ](https://user-images.githubusercontent.com/89346176/209641174-08be67e1-7d3d-4384-bf45-23268ba5c65e.jpg)![imgonline-com-ua-resize-YOsDjUZEUeXCM](https://user-images.githubusercontent.com/89346176/209641216-0f4cb1c0-cd46-43db-890f-4b49047968eb.jpg)
+  ![imgonline-com-ua-resize-iUomPJLhvWpwsZ](https://user-images.githubusercontent.com/89346176/209641174-08be67e1-7d3d-4384-bf45-23268ba5c65e.jpg)
+  ![imgonline-com-ua-resize-YOsDjUZEUeXCM](https://user-images.githubusercontent.com/89346176/209641216-0f4cb1c0-cd46-43db-890f-4b49047968eb.jpg)
 
   
 </details>
