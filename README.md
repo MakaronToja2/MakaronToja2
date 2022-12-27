@@ -18,7 +18,7 @@ ___
 
 <details>
   <summary>:computer:Tech Stack</summary>
-  <h>Languages:</h>   
+  <p>Languages:</p>   
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/imgonline-com-ua-resize-iUomPJLhvWpwsZ.jpg" alt="Alt text">
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/imgonline-com-ua-resize-YOsDjUZEUeXCM.jpg" alt="Alt text">
   <p>Frameworks/Libraries</p>
