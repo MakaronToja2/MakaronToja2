@@ -17,4 +17,6 @@ ___
 ![imgonline-com-ua-resize-f0qgdzsyg45P](https://user-images.githubusercontent.com/89346176/209639924-927268dd-b29f-4575-9014-7aaf575ba57e.jpg)
 
 <details>
-  <summary>Tech Stack</summary>
+  <summary>:computer:Tech Stack</summary>
+  
+</details>
