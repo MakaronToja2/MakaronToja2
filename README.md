@@ -19,4 +19,4 @@ ___
 <details>
   <summary>:computer:Tech Stack</summary>
   Languages  
-  ![Alt Text](https://github.com/MakaronToja2/MakaronToja2/blob/main/photos/imgonline-com-ua-resize-f0qgdzsyg45P.jpg)
+  ![Alt Text](https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/imgonline-com-ua-resize-f0qgdzsyg45P.jpg)
