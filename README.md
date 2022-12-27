@@ -18,6 +18,6 @@ ___
 
 <details>
   <summary>:computer:Tech Stack</summary>
-  Languages  
+  Languages:  
   ![imgonline-com-ua-resize-f0qgdzsyg45P](https://user-images.githubusercontent.com/89346176/209642612-51bd89d6-1ad0-4ead-89f4-645bb532dab9.jpg)
 
