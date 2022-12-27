@@ -11,4 +11,4 @@ ___
 - Coding in Python, Django,
 - Currently learning Django-Rest Framework,  
 🍁Main Stack  
-![python-logo-master-v3-TM](https://user-images.githubusercontent.com/89346176/209639510-c2e8138f-82ca-4f39-a72f-23bce8b86ba6.png)
+![imgonline-com-ua-resize-iUomPJLhvWpwsZ](https://user-images.githubusercontent.com/89346176/209639692-5025eecd-c1c8-4ee3-aeff-308811cfb60d.jpg)
