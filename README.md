@@ -36,8 +36,8 @@ ___
 </details>
 <details>
   <summary>::mailbox_with_mail:Contact Me</summary>
-  <p>-E-mail: wloch.jakub2@gmail.com
-    -https://www.linkedin.com/in/jakubwlochjw/
+  <p>- E-mail: wloch.jakub2@gmail.com  
+    - https://www.linkedin.com/in/jakubwlochjw/
                                                                                                               
                                                                                                               
 
