@@ -18,5 +18,5 @@ ___
 
 <details>
   <summary>:computer:Tech Stack</summary>
-  Languages
+  Languages  
   ![imgonline-com-ua-resize-iUomPJLhvWpwsZ](https://user-images.githubusercontent.com/89346176/209641380-4b6432c6-ded9-4740-b3b7-43531f163b6b.jpg)
