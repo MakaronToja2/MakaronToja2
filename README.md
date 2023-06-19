@@ -6,7 +6,7 @@ English at level B2/C1
 German A1/A2, currently learning
 ___
 👷‍♂️Something about me
-- 22 years old,
+- 23 years old,
 - Living in Opole, Poland but willing to relocate,
 - Coding in Python, Django,
 - Currently learning Django-Rest Framework,
