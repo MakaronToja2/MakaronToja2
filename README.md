@@ -12,8 +12,7 @@ ___
 👷‍♂️Something about me
 - 24 years old,
 - Living in Opole, Poland but willing to relocate,
-- Coding in Python, Django,
-- Currently learning Django-Rest Framework,
+- Coding in mostly Python, but know C,
   
 🍁Main Stack  
 ![imgonline-com-ua-resize-iUomPJLhvWpwsZ](https://user-images.githubusercontent.com/89346176/209639692-5025eecd-c1c8-4ee3-aeff-308811cfb60d.jpg)
