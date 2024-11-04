@@ -23,27 +23,36 @@ ___
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
     <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="HTML"/>
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="C"/>
-    <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)" alt="Bash"/>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff" alt="Bash"/>
+    <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" alt="JSON"/>
 </div>
 
-<details>
-  <summary>:computer:Tech Stack</summary>
-  <p>Languages:</p>   
-  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/imgonline-com-ua-resize-iUomPJLhvWpwsZ.jpg" alt="Alt text">
-  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/imgonline-com-ua-resize-YOsDjUZEUeXCM.jpg" alt="Alt text">
-  <p>Frameworks/Libraries:</p>
-  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/imgonline-com-ua-resize-o73IpOFMhNk.jpg" alt="Django">
-  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/imgonline-com-ua-resize-f0qgdzsyg45P.jpg" alt="Django-Rest">
-  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/numpy.jpg" alt="Alt text">
-  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/pandas.jpg" alt="Alt text">
-  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/seaborn.jpg" alt="Alt text">
-  <p>Tools:</p>
-  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/Git.jpg" alt="Alt text">
-  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/Github.jpg" alt="Alt text">
-  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/docker.jpg" alt="Alt text">
-  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/Pycharm.jpg" alt="Alt text">
-  <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/VisualStudio.jpg" alt="Alt text">
-</details>
+<div align="center">
+    <h1>☁️Cloud Technologies</h1>
+    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" alt="GCP"/>
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" alt="GithubActions"/>
+</div>
+
+<div align="center">
+    <h1>🔧Frameworks</h1>
+    <img src="https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white" alt="Django"/>
+    <img src="https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff" alt="DRF"/>
+    <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white" alt="Flask"/>
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git"/>
+</div>
+
+<div align="center">
+    <h1>🐧Platforms</h1>
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux"/>
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" alt="Windows"/>
+</div>
+
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MakaronToja2&theme=github_dark" alt="MakaronToja's GitHub Stats"/>
+</div>
+
 <div align="center">
     <h1>📫Connect With me</h1>
     <a href="https://www.linkedin.com/in/jakubwlochjw/">
