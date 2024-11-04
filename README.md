@@ -19,7 +19,7 @@ ___
 </div>
   
 <div align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)" alt="Python"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
 </div>
 
 <details>
