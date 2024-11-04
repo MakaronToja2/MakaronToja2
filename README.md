@@ -11,7 +11,7 @@ German A1/A2, currently learning
 ___
 <div align="center">
     <h1>👷‍♂️Something about me</h1>
-    <ul>
+    <ul align="left">
         <li>- 24 years old,</li>
         <li>- Living in Opole, Poland but willing to relocate,</li>
         <li>- Coding in mostly Python, but know C,</li>
