@@ -38,9 +38,11 @@ ___
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/VisualStudio.jpg" alt="Alt text">
 </details>
 <div align="center">
+    <h1>📫Connect With me</h1>
     <a href="https://www.linkedin.com/in/jakubwlochjw/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
+    <p>✉️wloch.jakub2@gmail.com</p>
 </div>
                                                                                                               
                                                                                                               
