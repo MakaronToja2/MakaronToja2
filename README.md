@@ -19,7 +19,11 @@ ___
 </div>
   
 <div align="center">
+    <h1>💻Programming Languages</h1>
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python"/>
+    <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="HTML"/>
+    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)" alt="Bash"/>
 </div>
 
 <details>
