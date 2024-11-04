@@ -18,10 +18,9 @@ ___
     </ul>
 </div>
   
-🍁Main Stack  
-![imgonline-com-ua-resize-iUomPJLhvWpwsZ](https://user-images.githubusercontent.com/89346176/209639692-5025eecd-c1c8-4ee3-aeff-308811cfb60d.jpg)
-![imgonline-com-ua-resize-o73IpOFMhNk](https://user-images.githubusercontent.com/89346176/209639906-2d5c419e-1ca2-44a2-aa39-b06c079f251b.jpg)
-![imgonline-com-ua-resize-f0qgdzsyg45P](https://user-images.githubusercontent.com/89346176/209639924-927268dd-b29f-4575-9014-7aaf575ba57e.jpg)
+<div align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)" alt="Python"/>
+</div>
 
 <details>
   <summary>:computer:Tech Stack</summary>
@@ -41,10 +40,6 @@ ___
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/Pycharm.jpg" alt="Alt text">
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/VisualStudio.jpg" alt="Alt text">
 </details>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
-</div>
 <div align="center">
     <h1>📫Connect With me</h1>
     <a href="https://www.linkedin.com/in/jakubwlochjw/">
