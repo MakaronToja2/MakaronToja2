@@ -37,13 +37,11 @@ ___
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/Pycharm.jpg" alt="Alt text">
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/VisualStudio.jpg" alt="Alt text">
 </details>
-<details>
-  <summary>::mailbox_with_mail:Contact Me</summary>
-  <ul>
-    <li>E-mail: wloch.jakub2@gmail.com</li>
-    <li>https://www.linkedin.com/in/jakubwlochjw/</li>
-  </ul>
-</details>
+<div align="center">
+    <a href="https://www.linkedin.com/in/jakubwlochjw/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+</div>
                                                                                                               
                                                                                                               
 
