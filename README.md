@@ -9,10 +9,14 @@ I'm programming since June 2021. Currently working as Python Developer at Turing
 English at level C1
 German A1/A2, currently learning
 ___
-👷‍♂️Something about me
-- 24 years old,
-- Living in Opole, Poland but willing to relocate,
-- Coding in mostly Python, but know C,
+<div align="center">
+    <h1>👷‍♂️Something about me</h1>
+    <ul>
+        <li>- 24 years old,</li>
+        <li>- Living in Opole, Poland but willing to relocate,</li>
+        <li>- Coding in mostly Python, but know C,</li>
+    </ul>
+</div>
   
 🍁Main Stack  
 ![imgonline-com-ua-resize-iUomPJLhvWpwsZ](https://user-images.githubusercontent.com/89346176/209639692-5025eecd-c1c8-4ee3-aeff-308811cfb60d.jpg)
