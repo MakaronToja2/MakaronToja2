@@ -12,9 +12,9 @@ ___
 <div align="center">
     <h1>👷‍♂️Something about me</h1>
     <ul align="left">
-        <li>- 24 years old,</li>
-        <li>- Living in Opole, Poland but willing to relocate,</li>
-        <li>- Coding in mostly Python, but know C,</li>
+        <li>24 years old,</li>
+        <li>Living in Opole, Poland but willing to relocate,</li>
+        <li>Coding in mostly Python, but know C,</li>
     </ul>
 </div>
   
@@ -41,6 +41,10 @@ ___
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/Pycharm.jpg" alt="Alt text">
   <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/main/photos/VisualStudio.jpg" alt="Alt text">
 </details>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/MakaronToja2/MakaronToja2/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation"/>
+</div>
 <div align="center">
     <h1>📫Connect With me</h1>
     <a href="https://www.linkedin.com/in/jakubwlochjw/">
